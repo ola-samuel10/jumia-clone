@@ -1,0 +1,31 @@
+input {
+    
+	border: none;
+}
+
+.link {
+background-color: rgba(248, 182, 1, 0.918);
+padding: 10px 20px;
+}
+.first {
+    text-decoration: none;
+color: white;
+}
+.first:hover {
+    text-decoration: none;
+color: white;
+}
+
+.lin {
+    background-color: rgba(5, 2, 156, 0.918);
+    padding: 10px 20px;
+    }
+    .second {
+        text-decoration: none;
+    color: white;
+    }
+    .second:hover {
+        text-decoration: none;
+    color: white;
+    }
+

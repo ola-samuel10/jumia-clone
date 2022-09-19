@@ -1,0 +1,17 @@
+li {
+    list-style: none;
+    margin:7px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+
+}
+
